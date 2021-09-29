@@ -1,0 +1,3 @@
+{'response': [{'first_name': 'Алексей', 'id': 12270216, 'last_name': 'Крючков', 'can_access_closed': True, 'is_closed': True}]}
+{'response': [{'first_name': 'Павел', 'id': 1, 'last_name': 'Дуров', 'can_access_closed': True, 'is_closed': False}]}
+{'response': [{'first_name': 'Александра', 'id': 2, 'last_name': 'Владимирова', 'can_access_closed': False, 'is_closed': True}]}
